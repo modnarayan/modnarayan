@@ -23,12 +23,12 @@
 
 #### Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
 </p>
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,postgres,graphql,docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,express,mongodb,postgres,graphql,docker" />
 </p>
 
 #### Tools & Services
