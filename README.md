@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mod Narayan Singh</h1>
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="center">Frontend Developer</h3>
-<h3 align="center">Backend Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Frontend Developer</h2>
+<h2 align="center">Backend Developer</h2>
 
 <p align="center">
   <a href="https://github.com/modnarayan?tab=repositories">
@@ -48,7 +48,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/modnarayan/" target="_blank">
+  <a href="https://www.linkedin.com/in/mod-narayan-singh-4b98528a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:monukumarsinghmonu@gmail.com">
