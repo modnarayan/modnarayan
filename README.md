@@ -1,7 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mod Narayan Singh</h1>
-<h3 align="center">Full Stack Developer (MERN / Next.js)</h3>
+<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <a href="https://github.com/modnarayan?tab=repositories">
@@ -23,7 +23,7 @@
 
 #### Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,reactnative,nestjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs" />
 </p>
 
 #### Frameworks & Libraries
