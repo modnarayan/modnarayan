@@ -83,7 +83,9 @@
 <details>
   <summary>📚 <b>What I'm Working On</b></summary>
   <ul>
+    <li>
     <li>Advanced backend architecture with NestJS & microservices</li>
+    <li>Working professionally with Next.js for modern web applications</li>
     <li>Building CI/CD pipelines using GitHub Actions & Docker</li>
     <li>Exploring cloud native deployments on AWS & Kubernetes</li>
     <li>Learning Go for high-performance backend systems</li>
