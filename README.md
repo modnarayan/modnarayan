@@ -44,7 +44,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Exploring</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python,go" /></td>
   </tr>
   <tr>
